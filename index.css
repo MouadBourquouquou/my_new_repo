@@ -1,6 +1,23 @@
 h1 {
     color: blue;
     text-align: center;
-    background-color: yellow;
+    background-color: rgb(251, 0, 255);
     width: 300px;
+}
+
+figure {
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    position: relative;
+    left: -12px;
+    bottom: -15px;
+}
+
+p {
+    border: 1px dashed;
+    width: 704px;
+    position: relative;
+    left: 64px;
+    top: -17px;
 }
