@@ -1,0 +1,35 @@
+form {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+form label {
+    cursor: pointer;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+#text {
+    border: 2px dashed gray;
+}
+
+#submit {
+    background-color: red;
+    border: none;
+    border-radius: 6px;
+    padding: 3px;
+    width: 60px;
+    color: white;
+    font-weight: 600;
+}
+
+#reset {
+    background-color: #6a4879;
+    border: none;
+    border-radius: 6px;
+    padding: 3px;
+    width: 60px;
+    color: white;
+    font-weight: 600;
+}

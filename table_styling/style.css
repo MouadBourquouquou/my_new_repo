@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+table thead {
+    background-color: bisque;
+}
+
+table tr td {
+    background-color: azure;
+}
